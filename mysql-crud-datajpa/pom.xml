@@ -12,6 +12,7 @@
 	<artifactId>mysql-crud-datajpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mysql-crud-datajpa</name>
+	<packaging>war</packaging>
 	<description>Mysql Crud Datajpa </description>
 
 	<properties>
